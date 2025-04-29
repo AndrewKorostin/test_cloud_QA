@@ -39,7 +39,7 @@ pip install playwright
 
 playwright install
 
-##Запустите тест:
+## Запустите тест:
 
 bash
 
@@ -54,4 +54,4 @@ python test_automation.py
 
 Проверка URL после перехода
 
-Результаты будут выведены в консоль
+## Результаты будут выведены в консоль
